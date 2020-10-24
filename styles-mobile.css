@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-menu-principal {
+    padding: 10px;
+    background-color: beige;
+    
+}
+
+.img-logo{
+    width: 150px;
+}
+
+.nav-link {
+
+    text-decoration: none;
+    color: rgba(104, 104, 104, 0.6);
+    background-color: #FFF;
+    padding: 10px;
+    border-bottom: 1px solid #9799A6; 
+}
